@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/googleapis/java-storage-transfer/compare/v1.3.1...v1.3.2) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([509c36f](https://github.com/googleapis/java-storage-transfer/commit/509c36f7460aaa18f6d954db15ca1dbca0607b09))
+
 ## [1.3.1](https://github.com/googleapis/java-storage-transfer/compare/v1.3.0...v1.3.1) (2022-10-03)
 
 
